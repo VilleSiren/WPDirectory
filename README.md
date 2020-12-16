@@ -1,2 +1,4 @@
 # WPDirectory
-Directory service for Wordpress2
+Directory service for Wordpress
+
+Testing
