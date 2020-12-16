@@ -1,7 +1,7 @@
 /**
  * Plugin Name:       WP Directory
  * Plugin URI:        https://github.com/JyvaDigital/WPDirectory.git
- * Description:       WP Directory Service for Wordpress 
+ * Description:       WP Directory Service for Wordpress q
  * Version:           0.0.2
  * Requires at least: 5.2
  * Requires PHP:      7.2
